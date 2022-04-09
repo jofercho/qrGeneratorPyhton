@@ -1,1 +1,2 @@
-# qrReaderPyhton
+# qrGeneratorPyhton
+
